@@ -1,9 +1,9 @@
 // utils.js
 // Use the deployed backend API
-//export const API_URL = "https://mern-task-manager-app-deploy-api.vercel.app";
+export const API_URL = "https://mern-task-manager-app-deploy-api.vercel.app";
 
 // Local (if running backend locally, uncomment this)
- export const API_URL = "http://localhost:5000";
+// export const API_URL = "http://localhost:5000";
 
 import { toast } from "react-toastify";
 
